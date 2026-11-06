@@ -1,0 +1,12 @@
+[DOCUMENTATION]
+ORG_NAME="5LIFE Token"
+ORG_URL="https://fivelifegeo.github.io/5LIFE-Token"
+ORG_DESCRIPTION="5LIFE GEO - Sustainable agriculture token"
+
+[[CURRENCIES]]
+code="5LIFE"
+issuer="GD5LIFEISSUERPLACEHOLDER"
+display_decimals=7
+name="5LIFE"
+desc="5LIFE GEO sustainable token"
+image="https://fivelifegeo.github.io/5LIFE-Token/5life.png"
